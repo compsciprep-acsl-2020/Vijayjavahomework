@@ -34,7 +34,7 @@ public class HelloWorld {
     ag= af/2;
     d= ag % 2;
     am=ag/2;
-    e = am %2;a
+    e = am %2;ab
 
     System.out.println(e+""+d+""+c+""+b+""+a+""+z+""+y+""+x);
 
