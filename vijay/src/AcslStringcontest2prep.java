@@ -23,7 +23,7 @@ import java.util.Scanner;
             int i= s.nextInt();
             int j= s.nextInt();
             int k= s.nextInt();
-            if( b<0||c<0||d<0||e<0||f<0||g<0||h<0||i<0||j<0)
+            /*if( b<0||c<0||d<0||e<0||f<0||g<0||h<0||i<0||j<0)
             {
                 b= a.length()-b;
                 c= a.length()-c+1;
@@ -37,6 +37,8 @@ import java.util.Scanner;
                 j= a.length()+j;
                 k= a.length()+k+1;
             }
+
+             */
 
             System.out.print(a.substring(b,c));
             System.out.print(a.substring(d,e));
