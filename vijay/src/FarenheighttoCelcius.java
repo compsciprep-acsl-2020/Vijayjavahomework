@@ -12,8 +12,17 @@ import java.util.Scanner;public class FarenheighttoCelcius {
     }
 public static void main(String[] args )
 {
-   Scanner s = new Scanner(System.in);
-   System.out.println("Enter the number");
+   zz4
+40 4
+7
+
+
+
+
+
+
+
+77777System.out.println("Enter the number");
    double num = s.nextDouble();
    System.out.println( "Is the number farenheight or celcius. Please type f or c non capitalized" );
    String a = s.next();
